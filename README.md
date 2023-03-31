@@ -1,5 +1,5 @@
 # Retro PopupMenu
-_based on [NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu)_\
+**Note:** Based on [NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu) library\
 Retro PopupMenu is an Android library to create popup menu with Android 1.6+. Contains improvements in source code.
 
 ## Requirements
