@@ -1,4 +1,4 @@
-package com.u1aryz.android.lib.newpopupmenu;
+package dev.tinelix.retro_pm;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,6 +22,8 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
+
+import dev.tinelix.retro_pm.R;
 
 public class PopupMenu {
 
@@ -142,7 +144,7 @@ public class PopupMenu {
 
         Rect anchorRect = new Rect(location[0], location[1],
                 location[0] + anchor.getWidth(),
-                location[0] + anchor.getHeight());
+                location[1] + anchor.getHeight());
 
         mContentView.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
         mContentView.measure(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);

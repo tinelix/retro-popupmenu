@@ -1,4 +1,4 @@
-package com.u1aryz.android.lib.newpopupmenu;
+package dev.tinelix.retro_pm;
 
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
