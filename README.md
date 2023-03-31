@@ -1,5 +1,6 @@
 # Retro PopupMenu
-Retro PopupMenu is an Android library to create popup menu with GoogleMusic app-like style.
+_based on [NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu)_\
+Retro PopupMenu is an Android library to create popup menu with Android 1.6+. Contains improvements in source code.
 
 ## Requirements
 Android 1.6+ (APIv4 or higher)
